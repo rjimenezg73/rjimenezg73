@@ -31,7 +31,7 @@ Como lo dije anteriormente soy una persona capaz de adaptar a cualquier tecnolog
  <br>
 
 💼 Portafolio : En desarrollo <br>
-📞Tel: +52 7775225817
+📞Tel: +52 7775405596
 <p/>
 
 ## Lenguajes y herramientas
@@ -43,7 +43,7 @@ Como lo dije anteriormente soy una persona capaz de adaptar a cualquier tecnolog
 <p>
     <a href="https://robertojimenezg@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      robertojimenezg@gmail.com
+      rjimenezg1973@gmail.com
     </a>    
     <br>
     <a href="https://www.linkedin.com/in/roberto-jimenez73/">
